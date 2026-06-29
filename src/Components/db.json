@@ -1,0 +1,84 @@
+{
+  "blogs": [
+      {
+        "id": 1001,
+        "title": "Javascript",
+        "heading": "Top 10 Javascript features you should know",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores iste unde modi, soluta tenetur officiis.",
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=1200",
+        "date": "May 24, 2026"
+      },
+      {
+        "id": 1002,
+        "title": "React",
+        "heading": "Why React is still the most popular frontend library",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, quidem. Possimus molestiae tempora natus.",
+        "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200",
+        "date": "May 26, 2026"
+      },
+      {
+        "id": 1003,
+        "title": "Node.js",
+        "heading": "Getting started with Node.js backend development",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem cumque distinctio reprehenderit.",
+        "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200",
+        "date": "May 28, 2026"
+      },
+      {
+        "id": 1004,
+        "title": "CSS",
+        "heading": "Modern CSS tricks every developer should learn",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius inventore magni suscipit quidem.",
+        "image": "https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?w=1200",
+        "date": "June 01, 2026"
+      },
+      {
+        "id": 1005,
+        "title": "HTML",
+        "heading": "HTML5 tags that improve website structure",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste laboriosam laborum eligendi.",
+        "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200",
+        "date": "June 03, 2026"
+      },
+      {
+        "id": 1006,
+        "title": "Python",
+        "heading": "Python basics for beginners in 2026",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet repellendus expedita pariatur.",
+        "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200",
+        "date": "June 05, 2026"
+      },
+      {
+        "id": 1007,
+        "title": "AI",
+        "heading": "Artificial Intelligence trends shaping the future",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam numquam deleniti officiis.",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200",
+        "date": "June 08, 2026"
+      },
+      {
+        "id": 1008,
+        "title": "Cyber Security",
+        "heading": "Best cybersecurity practices for developers",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, blanditiis provident.",
+        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200",
+        "date": "June 10, 2026"
+      },
+      {
+        "id": 1009,
+        "title": "Cloud Computing",
+        "heading": "Introduction to AWS and cloud services",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid nostrum minima molestias.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200",
+        "date": "June 12, 2026"
+      },
+      {
+        "id": 1010,
+        "title": "Web Development",
+        "heading": "Complete roadmap to become a full stack developer",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur dicta exercitationem velit.",
+        "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200",
+        "date": "June 15, 2026"
+      }
+    ]
+}
